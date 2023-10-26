@@ -1,5 +1,10 @@
 Authors introduce **CADI-AI: Cashew Disease Identification with AI**, a valuable dataset designed for object detection tasks, wherein a model has been rigorously trained to discern and pinpoint regions afflicted by the distinctive influences of abiotic factors, diseases, and insect infestations in cashew orchards. This dataset comprises 4,736 images containing a total of 22,609 labeled objects categorized into three distinct classes: *insect*, *disease*, and *abiotic*.
 
+Sample image template:
+<img src="https://i.ibb.co/KwDCWhd/Screenshot-2023-10-26-180757.png" alt="image" width="800">
+
+<span style="font-size: smaller; font-style: italic;">Class labels associated with data.</span>
+
 ## Motivation
 
 The creation of this dataset represents a first contribution of drone data to the field of cashew crop research: Providing an open and accessible resource of high-quality, well-labeled drone imagery collected from Ghana Bono-Region, this dataset will offer data scientists, researchers, and social entrepreneurs within Sub-Saharan Africa and beyond, opportunities for innovative machine learning experiments and the development of solutions for infield cashew crop disease diagnosis and spatial analysis.
@@ -20,8 +25,7 @@ The decision to use the labels "abiotic", "disease", and "insect" for authors' o
 It is important to note that while these labels provide a general categorization of crop damage, they may not fully capture the complexity of the underlying causes. In addition, the labels may not be exhaustive and other types of damage may not be captured by these categories. As with any dataset, users should be aware of the limitations and context of the labels used and exercise caution when interpreting the results of models trained on this data.
 
 Examples of the limitations and complexities involved includes:
-- A plant may exhibit symptoms of both insect damage and disease, making it difficult to
-assign a single label to the damage.
+- A plant may exhibit symptoms of both insect damage and disease, making it difficult to assign a single label to the damage.
 - Damage caused by abiotic factors such as drought or nutrient deficiency may be similar to damage caused by disease or insect infestation, leading to confusion when assigning labels.
 - Damage caused by multiple factors may not fit neatly into a single label category, requiring more nuanced and complex labeling.
 - Different species of insects or diseases may cause similar damage to crops, making it difficult to distinguish between them using only the three labels.
