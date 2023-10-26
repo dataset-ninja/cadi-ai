@@ -15,7 +15,7 @@ Each instance is associated with a class label based on the status of the crop. 
 - Diseased factors represent attacks on crops by microorganisms.
 - Abiotic stress factors represent stress factors caused by non-living factors, e.g. environmental factors like weather or soil conditions or the lack of mineral nutrients to the crop.
 
-The decision to use the labels "abiotic", "disease", and "insect" for our object detection task was recommended by an agricultural scientist with expertise in crop health and disease management, Dr. Torkpor Stephen from University of Ghana.
+The decision to use the labels "abiotic", "disease", and "insect" for authors' object detection task was recommended by an agricultural scientist with expertise in crop health and disease management, Dr. Torkpor Stephen from University of Ghana.
 
 It is important to note that while these labels provide a general categorization of crop damage, they may not fully capture the complexity of the underlying causes. In addition, the labels may not be exhaustive and other types of damage may not be captured by these categories. As with any dataset, users should be aware of the limitations and context of the labels used and exercise caution when interpreting the results of models trained on this data.
 
