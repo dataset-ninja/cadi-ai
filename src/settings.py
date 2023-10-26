@@ -56,11 +56,11 @@ BLOGPOST: Optional[Union[str, List[str], Dict[str, str]]] = {"Datasheet":"https:
 REPOSITORY: Optional[Union[str, List[str], Dict[str, str]]] = {"GitHub":"https://github.com/karaagro/cadi-ai"}
 
 CITATION_URL: Optional[str] = None
-AUTHORS: Optional[List[str]] = ["Darlington Akogo"]
+AUTHORS: Optional[List[str]] = None
 AUTHORS_CONTACTS: Optional[List[str]] = ["darlington@gudra-studio.com"]
 
-ORGANIZATION_NAME: Optional[Union[str, List[str]]] = None
-ORGANIZATION_URL: Optional[Union[str, List[str]]] = None
+ORGANIZATION_NAME: Optional[Union[str, List[str]]] = ["KaraAgro AI Foundation"]
+ORGANIZATION_URL: Optional[Union[str, List[str]]] = ["https://www.karaagro.com/"]
 
 # Set '__PRETEXT__' or '__POSTTEXT__' as a key with string value to add custom text. e.g. SLYTAGSPLIT = {'__POSTTEXT__':'some text}
 SLYTAGSPLIT: Optional[Dict[str, Union[List[str], str]]] = None
