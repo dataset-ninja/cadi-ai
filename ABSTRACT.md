@@ -1,6 +1,5 @@
 Authors introduce **CADI-AI: Cashew Disease Identification with AI**, a valuable dataset designed for object detection tasks, wherein a model has been rigorously trained to discern and pinpoint regions afflicted by the distinctive influences of abiotic factors, diseases, and insect infestations in cashew orchards. This dataset comprises 4,736 images containing a total of 22,609 labeled objects categorized into three distinct classes: *insect*, *disease*, and *abiotic*.
 
-Sample image template:
 <img src="https://i.ibb.co/KwDCWhd/Screenshot-2023-10-26-180757.png" alt="image" width="800">
 
 <span style="font-size: smaller; font-style: italic;">Class labels associated with data.</span>
