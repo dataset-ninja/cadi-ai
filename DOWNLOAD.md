@@ -1,6 +1,6 @@
 Dataset **CADI-AI** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/M/z/za/obM6PSuAvIijsS39YkflPV6UwsD7NBns0790fOsshYiOTOFXS9fIruWkTqgQSGXHYsWSpdDiDEQk96ZFAmB7c4OzoR6UEiE6SnZ1o1ZlpviNF6q0Gb4SzTZ2wvTK.tar)
+ [Download](https://www.dropbox.com/scl/fi/76ymknvt96hscopobat5m/cadi-ai-DatasetNinja.tar?rlkey=tlyckjuaj84fgmxj1vgsugwda&dl=1)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
